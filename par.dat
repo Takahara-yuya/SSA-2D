@@ -1,0 +1,9 @@
+input_filename： data/model_dt90inc.grd
+output_reginal: data/regional
+output_local: data/local
+output_eigenvalue: data/eigen_value.dat
+Lr: 20
+Lc: 20
+number_of_k: 5
+order: 5 7 9 15 20
+reconstruct: 1
