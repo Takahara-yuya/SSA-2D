@@ -1,6 +1,12 @@
 # SSA-2D
 This is a program to employ SSA on the geophysics data(gravity or magnetic)
 
+Author:
+Zuwei Huang
+hzw1498218560@tongji.edu.cn
+School of Ocean and Earth Science, Tongji University
+Integrated Geophysics Group
+
 MSSA.cpp: main program
 
 par.dat: startup file.the format below told you how to use it.
